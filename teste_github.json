@@ -1,0 +1,28 @@
+{
+    "teste_3": {
+        "name": "Teste 3",
+        "inSplunk": "yes",
+        "journey": "Stage_3", 
+        "usecase": "Security Monitoring",
+        "highlight": "Yes",
+        "alertvolume": "Low",
+        "severity": "Medium",
+        "category": "Other",
+        "description": "Um teste de integracao",
+        "domain": "Endpoint",
+        "killchain": "Delivery",
+        "SPLEase": "Medium",
+        "searchkeywords": "",
+        "advancedtags": "",
+        "printable_image": "",
+        "icon": "https://github.com/jcfl1/teste_tsi/raw/main/CAD.png",
+        "company_logo": "https://github.com/jcfl1/teste_tsi/raw/main/tempest-icone.jpg",
+        "company_logo_width": "255",
+        "company_logo_height": "255",
+        "dashboard": "showcase_custom?showcaseId=teste_3",
+        "search": "index=*",
+        "data_source_categories": "VendorSpecific-winsec",
+        "mitre_technique": "T1047",
+        "mitre_tactic": "TA0002"
+    }
+}
