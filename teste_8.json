@@ -1,0 +1,30 @@
+{
+    "teste-193": {
+        "name": "Execução suspeita de WMI",
+        "inSplunk": "yes",
+        "journey": "Stage_3", 
+        "usecase": "Security Monitoring",
+        "highlight": "Yes",
+        "id": "5723cfb8-b91c-41aa-8086-3d3161f9fb55",
+        "channel": "CaDUCA-SSE",
+        "alertvolume": "Low",
+        "severity": "Medium",
+        "category": "Other",
+        "description": "Possível execução suspeita de WMI.",
+        "domain": "Endpoint",
+        "killchain": "Delivery",
+        "SPLEase": "Medium",
+        "searchkeywords": "",
+        "advancedtags": "",
+        "printable_image": "",
+        "icon": "https://github.com/jcfl1/teste_tsi/raw/main/CAD.png",
+        "company_logo": "https://github.com/jcfl1/teste_tsi/raw/main/tempest-icone.jpg",
+        "company_logo_width": "255",
+        "company_logo_height": "255",
+        "dashboard": "showcase_custom?showcaseId=CADUCA-193",
+        "search": "index=* ",
+        "data_source_categories": "VendorSpecific-winsec",
+        "mitre_technique": "T1047",
+        "mitre_tactic": "TA0002"
+    }
+}
