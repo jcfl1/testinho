@@ -1,6 +1,6 @@
 {
-    "teste_7": {
-        "name": "Teste 7",
+    "teste_8": {
+        "name": "Teste 8",
         "inSplunk": "yes",
         "journey": "Stage_3", 
         "usecase": "Security Monitoring",
@@ -19,7 +19,7 @@
         "company_logo": "https://github.com/jcfl1/teste_tsi/raw/main/tempest-icone.jpg",
         "company_logo_width": "255",
         "company_logo_height": "255",
-        "dashboard": "showcase_custom?showcaseId=teste_7",
+        "dashboard": "showcase_custom?showcaseId=teste_8",
         "search": "index=*",
         "data_source_categories": "VendorSpecific-winsec",
         "mitre_technique": "T1047",
